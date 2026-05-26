@@ -1,4 +1,4 @@
-# LUMI AI guide
+# LUMI AI guide 2
 
 > [!WARNING]  
 > This project is still work in progress and changes are made constantly. For well tested examples have a look at the LUMI AI workshop material: https://github.com/Lumi-supercomputer/Getting_Started_with_AI_workshop
